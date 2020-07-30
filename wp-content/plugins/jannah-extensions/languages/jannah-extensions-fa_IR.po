@@ -1,0 +1,628 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: محمد قاسمی\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-06 17:49+0330\n"
+"PO-Revision-Date: 2019-10-06 17:50+0330\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: Tielabs <info@tielabs.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../custom-sliders/custom-sliders.php:19
+msgid "Custom Sliders"
+msgstr "اسلایدر دلخواه"
+
+#: ../custom-sliders/custom-sliders.php:20
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: ../custom-sliders/custom-sliders.php:21
+msgid "Add New Slider"
+msgstr "افزودن اسلایدر جدید"
+
+#: ../custom-sliders/custom-sliders.php:81
+msgid "Insert Images"
+msgstr "درج تصاویر"
+
+#: ../custom-sliders/custom-sliders.php:86
+msgid "Select"
+msgstr "انتخاب"
+
+#: ../custom-sliders/custom-sliders.php:104
+#: ../custom-sliders/custom-sliders.php:155
+msgid "Slide Title:"
+msgstr "عنوان اسلاید:"
+
+#: ../custom-sliders/custom-sliders.php:110
+#: ../custom-sliders/custom-sliders.php:162
+msgid "Slide Link:"
+msgstr "لینک اسلاید:"
+
+#: ../custom-sliders/custom-sliders.php:116
+#: ../custom-sliders/custom-sliders.php:169
+msgid "Slide Caption:"
+msgstr "توضیح اسلاید:"
+
+#: ../custom-sliders/custom-sliders.php:185
+msgid "Add New Slide"
+msgstr "افزودن اسلاید جدید"
+
+#: ../custom-sliders/custom-sliders.php:220 ../shortcodes/shortcodes.php:89
+msgid "Title"
+msgstr "عنوان"
+
+#: ../custom-sliders/custom-sliders.php:221
+msgid "Number of slides"
+msgstr "تعداد اسلایدها"
+
+#: ../custom-sliders/custom-sliders.php:222
+msgid "ID"
+msgstr "شناسه"
+
+#: ../custom-sliders/custom-sliders.php:223
+msgid "Date"
+msgstr "تاریخ"
+
+#: ../shortcodes/shortcodes.php:31
+msgid "Jannah Shortcodes"
+msgstr "کدهای کوتاه جنه"
+
+#: ../shortcodes/shortcodes.php:32
+msgid "Need help?"
+msgstr "کمک میخواهید؟"
+
+#: ../shortcodes/shortcodes.php:34
+msgid "Quote"
+msgstr "نقل قول"
+
+#: ../shortcodes/shortcodes.php:35
+msgid "Author"
+msgstr "نویسنده"
+
+#: ../shortcodes/shortcodes.php:36
+msgid "Box"
+msgstr "کادر"
+
+#: ../shortcodes/shortcodes.php:37
+msgid "Alignment"
+msgstr "ترازبندی"
+
+#: ../shortcodes/shortcodes.php:38
+msgid "Custom Class"
+msgstr "کلاس های دلخواه"
+
+#: ../shortcodes/shortcodes.php:39
+msgid "Style"
+msgstr "استایل"
+
+#: ../shortcodes/shortcodes.php:40
+msgid "Dark"
+msgstr "تیره"
+
+#: ../shortcodes/shortcodes.php:41
+msgid "Light"
+msgstr "روشن"
+
+#: ../shortcodes/shortcodes.php:42
+msgid "Simple"
+msgstr "نمونه"
+
+#: ../shortcodes/shortcodes.php:43
+msgid "Shadow"
+msgstr "سایه"
+
+#: ../shortcodes/shortcodes.php:44
+msgid "Info"
+msgstr "اطلاعات"
+
+#: ../shortcodes/shortcodes.php:45
+msgid "Success"
+msgstr "موفقیت"
+
+#: ../shortcodes/shortcodes.php:46
+msgid "Warning"
+msgstr "هشدار"
+
+#: ../shortcodes/shortcodes.php:47
+msgid "Error"
+msgstr "اخطار"
+
+#: ../shortcodes/shortcodes.php:48
+msgid "Download"
+msgstr "دانلود"
+
+#: ../shortcodes/shortcodes.php:49
+msgid "Note"
+msgstr "نوشته"
+
+#: ../shortcodes/shortcodes.php:50 ../shortcodes/shortcodes.php:121
+msgid "Right"
+msgstr "راست"
+
+#: ../shortcodes/shortcodes.php:51 ../shortcodes/shortcodes.php:120
+msgid "Left"
+msgstr "چپ"
+
+#: ../shortcodes/shortcodes.php:52
+msgid "Center"
+msgstr "مرکز"
+
+#: ../shortcodes/shortcodes.php:53
+msgid "Width"
+msgstr "عرض"
+
+#: ../shortcodes/shortcodes.php:54
+msgid "Content"
+msgstr "محتویات"
+
+#: ../shortcodes/shortcodes.php:55
+msgid "Button"
+msgstr "دکمه"
+
+#: ../shortcodes/shortcodes.php:56
+msgid "Nofollow?"
+msgstr "دنبال نکردن؟"
+
+#: ../shortcodes/shortcodes.php:57
+msgid "Color"
+msgstr "رنگ"
+
+#: ../shortcodes/shortcodes.php:58
+msgid "Red"
+msgstr "قرمز"
+
+#: ../shortcodes/shortcodes.php:59
+msgid "Orange"
+msgstr "نارنجی"
+
+#: ../shortcodes/shortcodes.php:60
+msgid "Blue"
+msgstr "آبی"
+
+#: ../shortcodes/shortcodes.php:61
+msgid "Green"
+msgstr "سبز"
+
+#: ../shortcodes/shortcodes.php:62
+msgid "Black"
+msgstr "مشکی"
+
+#: ../shortcodes/shortcodes.php:63
+msgid "Gray"
+msgstr "خاکستری"
+
+#: ../shortcodes/shortcodes.php:64
+msgid "White"
+msgstr "سفید"
+
+#: ../shortcodes/shortcodes.php:65
+msgid "Pink"
+msgstr "صورتی"
+
+#: ../shortcodes/shortcodes.php:66
+msgid "Purple"
+msgstr "بنفش"
+
+#: ../shortcodes/shortcodes.php:67
+msgid "Yellow"
+msgstr "زرد"
+
+#: ../shortcodes/shortcodes.php:68
+msgid "Size"
+msgstr "اندازه"
+
+#: ../shortcodes/shortcodes.php:69
+msgid "Small"
+msgstr "کوچک"
+
+#: ../shortcodes/shortcodes.php:70
+msgid "Medium"
+msgstr "متوسط"
+
+#: ../shortcodes/shortcodes.php:71
+msgid "Big"
+msgstr "بزرگ"
+
+#: ../shortcodes/shortcodes.php:72
+msgid "Link"
+msgstr "لینک"
+
+#: ../shortcodes/shortcodes.php:73
+msgid "Text"
+msgstr "متن"
+
+#: ../shortcodes/shortcodes.php:74
+msgid "Icon (use full Font Awesome name)"
+msgstr "آیکن (Font Awesome)"
+
+#: ../shortcodes/shortcodes.php:75
+msgid "Open link in a new window/tab"
+msgstr "بازشدن در صفحه/زبانه جدید"
+
+#: ../shortcodes/shortcodes.php:76
+msgid "Tabs"
+msgstr "زبانه ها"
+
+#: ../shortcodes/shortcodes.php:77
+msgid "Tab 1 Title"
+msgstr "عنوان زبانه 1"
+
+#: ../shortcodes/shortcodes.php:78
+msgid "Tab 2 Title"
+msgstr "عنوان زبانه 2"
+
+#: ../shortcodes/shortcodes.php:79
+msgid "Tab 3 Title"
+msgstr "عنوان زبانه 3"
+
+#: ../shortcodes/shortcodes.php:80
+msgid "Tab 1 | Your Content"
+msgstr "زبانه 1 | محتوای شما"
+
+#: ../shortcodes/shortcodes.php:81
+msgid "Tab 2 | Your Content"
+msgstr "زبانه 2 | محتوای شما"
+
+#: ../shortcodes/shortcodes.php:82
+msgid "Tab 3 | Your Content"
+msgstr "زبانه 3 | محتوای شما"
+
+#: ../shortcodes/shortcodes.php:83
+msgid "Slide 1 | Your Content"
+msgstr "اسلاید 1 | محتوای شما"
+
+#: ../shortcodes/shortcodes.php:84
+msgid "Slide 2 | Your Content"
+msgstr "اسلاید 2 | محتوای شما"
+
+#: ../shortcodes/shortcodes.php:85
+msgid "Slide 3 | Your Content"
+msgstr "اسلاید 3 | محتوای شما"
+
+#: ../shortcodes/shortcodes.php:86
+msgid "Vertical"
+msgstr "عمودی"
+
+#: ../shortcodes/shortcodes.php:87
+msgid "Horizontal"
+msgstr "افقی"
+
+#: ../shortcodes/shortcodes.php:88
+msgid "Toggle Box"
+msgstr "باکس بازشونده"
+
+#: ../shortcodes/shortcodes.php:90
+msgid "State"
+msgstr "وضعیت"
+
+#: ../shortcodes/shortcodes.php:91
+msgid "Opened"
+msgstr "باز"
+
+#: ../shortcodes/shortcodes.php:92
+msgid "Closed"
+msgstr "بسته"
+
+#: ../shortcodes/shortcodes.php:93
+msgid "Content Slideshow"
+msgstr "محتوای اسلایدشو"
+
+#: ../shortcodes/shortcodes.php:94
+msgid "Author Bio"
+msgstr "بیوگرافی نویسنده"
+
+#: ../shortcodes/shortcodes.php:95
+msgid "Author Image URL"
+msgstr "آدرس عکس نویسنده"
+
+#: ../shortcodes/shortcodes.php:96
+msgid "Flickr"
+msgstr "فلیکر"
+
+#: ../shortcodes/shortcodes.php:97
+msgid "Add photos from Flickr"
+msgstr "افزودن تصاویر از فلیکر"
+
+#: ../shortcodes/shortcodes.php:98
+msgid "Account ID  ( get it from http//idgettr.com )"
+msgstr "شناسه حساب  ( دریافت از http//idgettr.com )"
+
+#: ../shortcodes/shortcodes.php:99
+msgid "Number of photos"
+msgstr "تعداد تصاویر"
+
+#: ../shortcodes/shortcodes.php:100
+msgid "Sorting"
+msgstr "درحال مرتب سازی"
+
+#: ../shortcodes/shortcodes.php:101
+msgid "Recent"
+msgstr "آخرین"
+
+#: ../shortcodes/shortcodes.php:102
+msgid "Random"
+msgstr "تصادفی"
+
+#: ../shortcodes/shortcodes.php:103
+msgid "Display Feeds"
+msgstr "نمایش خوراک ها"
+
+#: ../shortcodes/shortcodes.php:104
+msgid "URL of the RSS feed"
+msgstr "آدرس خوراک"
+
+#: ../shortcodes/shortcodes.php:105
+msgid "Number of Feeds"
+msgstr "تعداد خوراک ها"
+
+#: ../shortcodes/shortcodes.php:106
+msgid "Google Maps"
+msgstr "نقشه گوگل"
+
+#: ../shortcodes/shortcodes.php:107
+msgid "Google Maps URL"
+msgstr "آدرس نقشه گوگل"
+
+#: ../shortcodes/shortcodes.php:108
+msgid "Height"
+msgstr "ارتفاع"
+
+#: ../shortcodes/shortcodes.php:109
+msgid "Video"
+msgstr "ویدئو"
+
+#: ../shortcodes/shortcodes.php:110
+msgid "Video URL"
+msgstr "آدرس ویدیو"
+
+#: ../shortcodes/shortcodes.php:111
+msgid "Audio"
+msgstr "صوت"
+
+#: ../shortcodes/shortcodes.php:112
+msgid "MP3 file URL"
+msgstr "آدرس فایل MP3"
+
+#: ../shortcodes/shortcodes.php:113
+msgid "M4A file URL"
+msgstr "آدرس فایل M4A"
+
+#: ../shortcodes/shortcodes.php:114
+msgid "OGG file URL"
+msgstr "آدرس فایل OGG"
+
+#: ../shortcodes/shortcodes.php:115
+msgid "Lightbox"
+msgstr "لایت باکس"
+
+#: ../shortcodes/shortcodes.php:116
+msgid "Full Image or YouTube / Vimeo Video URL"
+msgstr "تصویر کامل یا آدرس ویدیو  YouTube / Vimeo"
+
+#: ../shortcodes/shortcodes.php:117
+msgid "Tooltip"
+msgstr "راهنمای ابزار"
+
+#: ../shortcodes/shortcodes.php:118
+msgid "Direction"
+msgstr "جهت"
+
+#: ../shortcodes/shortcodes.php:119
+msgid "Top"
+msgstr "بالا"
+
+#: ../shortcodes/shortcodes.php:122
+msgid "Bottom"
+msgstr "پایین"
+
+#: ../shortcodes/shortcodes.php:123
+msgid "Share Buttons"
+msgstr "دکمه های اشتراک گذاری"
+
+#: ../shortcodes/shortcodes.php:124
+msgid "Facebook Like Button"
+msgstr "دکمه های لایک فیس بوک"
+
+#: ../shortcodes/shortcodes.php:125
+msgid "Tweet Button"
+msgstr "دکمه توییت"
+
+#: ../shortcodes/shortcodes.php:126
+msgid "Stumble Button"
+msgstr "دکمه Stumble"
+
+#: ../shortcodes/shortcodes.php:127
+msgid "Pinterest Button"
+msgstr "دکمه Pinterest"
+
+#: ../shortcodes/shortcodes.php:128
+msgid "Twitter Follow Button"
+msgstr "دکمه فالو Twitter"
+
+#: ../shortcodes/shortcodes.php:129
+msgid "Twitter Username"
+msgstr "نام کاربری Twitter"
+
+#: ../shortcodes/shortcodes.php:130
+msgid "Login Form"
+msgstr "فرم ورود"
+
+#: ../shortcodes/shortcodes.php:131
+msgid "Tags Cloud"
+msgstr "ابربرچسب ها"
+
+#: ../shortcodes/shortcodes.php:132
+msgid "Dropcap"
+msgstr "دراپ کپس"
+
+#: ../shortcodes/shortcodes.php:133
+msgid "Highlight Text"
+msgstr "نوشته انتخاب شده"
+
+#: ../shortcodes/shortcodes.php:134
+msgid "Padding"
+msgstr "فاصله داخلی"
+
+#: ../shortcodes/shortcodes.php:135
+msgid "Padding Top"
+msgstr "فاصله داخلی بالایی"
+
+#: ../shortcodes/shortcodes.php:136
+msgid "Padding Bottom"
+msgstr "فاصله داخلی پایین"
+
+#: ../shortcodes/shortcodes.php:137
+msgid "Padding right"
+msgstr "فاصله داخلی راست"
+
+#: ../shortcodes/shortcodes.php:138
+msgid "Padding Left"
+msgstr "فاصله داخلی چپ"
+
+#: ../shortcodes/shortcodes.php:139
+msgid "Divider Line"
+msgstr "خط جداکننده"
+
+#: ../shortcodes/shortcodes.php:140
+msgid "Solid"
+msgstr "ساده"
+
+#: ../shortcodes/shortcodes.php:141
+msgid "Dashed"
+msgstr "خط چین"
+
+#: ../shortcodes/shortcodes.php:142
+msgid "Normal"
+msgstr "عادی"
+
+#: ../shortcodes/shortcodes.php:143
+msgid "Double"
+msgstr "دوتایی"
+
+#: ../shortcodes/shortcodes.php:144
+msgid "Dotted"
+msgstr "نقطه چین"
+
+#: ../shortcodes/shortcodes.php:145
+msgid "Margin Top"
+msgstr "فاصله خارجی بالا"
+
+#: ../shortcodes/shortcodes.php:146
+msgid "Margin Bottom"
+msgstr "فاصله خارجی پایین"
+
+#: ../shortcodes/shortcodes.php:147
+msgid "Lists"
+msgstr "لیست ها"
+
+#: ../shortcodes/shortcodes.php:148
+msgid "Star"
+msgstr "ستاره"
+
+#: ../shortcodes/shortcodes.php:149
+msgid "Check"
+msgstr "تیک"
+
+#: ../shortcodes/shortcodes.php:150
+msgid "Thumb Up"
+msgstr "امتیاز بالا"
+
+#: ../shortcodes/shortcodes.php:151
+msgid "Thumb Down"
+msgstr "امتیاز پایین"
+
+#: ../shortcodes/shortcodes.php:152
+msgid "Plus"
+msgstr "مثبت"
+
+#: ../shortcodes/shortcodes.php:153
+msgid "Minus"
+msgstr "منفی"
+
+#: ../shortcodes/shortcodes.php:154
+msgid "Heart"
+msgstr "قلب"
+
+#: ../shortcodes/shortcodes.php:155
+msgid "Light Bulb"
+msgstr "چراغ روشن"
+
+#: ../shortcodes/shortcodes.php:156
+msgid "Cons"
+msgstr "منفی"
+
+#: ../shortcodes/shortcodes.php:157
+msgid "Ads"
+msgstr "تبلیغات"
+
+#: ../shortcodes/shortcodes.php:158
+msgid "Ads Shortcode 1"
+msgstr "کدکوتاه تبلیغاتی 1"
+
+#: ../shortcodes/shortcodes.php:159
+msgid "Ads Shortcode 2"
+msgstr "کدکوتاه تبلیغاتی 2"
+
+#: ../shortcodes/shortcodes.php:160
+msgid "Ads Shortcode 3"
+msgstr "کدکوتاه تبلیغاتی 3"
+
+#: ../shortcodes/shortcodes.php:161
+msgid "Ads Shortcode 4"
+msgstr "کدکوتاه تبلیغاتی 4"
+
+#: ../shortcodes/shortcodes.php:162
+msgid "Ads Shortcode 5"
+msgstr "کدکوتاه تبلیغاتی 5"
+
+#: ../shortcodes/shortcodes.php:163
+msgid "Columns"
+msgstr "ستون ها"
+
+#: ../shortcodes/shortcodes.php:164
+msgid "Add content here"
+msgstr "افزودن محتوا تبلیغات"
+
+#: ../shortcodes/shortcodes.php:165
+msgid "Full Width Image"
+msgstr "عکس تمام عرض"
+
+#: ../shortcodes/shortcodes.php:166
+msgid "Content Index"
+msgstr "شاخص محتوا (اندیس و پرش)"
+
+#: ../shortcodes/shortcodes.php:167
+msgid "Restrict Content"
+msgstr "محتوای محدود"
+
+#: ../shortcodes/shortcodes.php:168
+msgid "For Registered Users only"
+msgstr "فقط برای اعضا"
+
+#: ../shortcodes/shortcodes.php:169
+msgid "For Guests only"
+msgstr "فقط برای مهمان ها"
+
+#: ../shortcodes/shortcodes.php:480
+msgid "About the author"
+msgstr "درباره ی نویسنده"
+
+#: ../shortcodes/shortcodes.php:585
+msgid "No items."
+msgstr "مطلبی نیست."
+
+#: ../shortcodes/shortcodes.php:589
+msgid "Posted"
+msgstr "منتشر شده"
+
+#~ msgid "Google+ Button"
+#~ msgstr "دکمه گوگل پلاس"

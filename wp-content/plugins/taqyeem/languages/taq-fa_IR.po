@@ -1,0 +1,595 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taqyeem\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-07 09:59+0430\n"
+"PO-Revision-Date: 2020-04-07 09:59+0430\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: Tielabs <info@tielabs.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../taqyeem-panel.php:39 ../taqyeem-posts.php:366
+msgid "Review Criteria"
+msgstr "معیارهای امتیازدهی"
+
+#: ../taqyeem-panel.php:39 ../taqyeem-posts.php:369
+msgid "Criteria Score"
+msgstr "نمره (امتیاز) معیار"
+
+#: ../taqyeem-panel.php:39 ../taqyeem-posts.php:372
+msgid "Delete"
+msgstr "حذف"
+
+#: ../taqyeem-panel.php:142 ../taqyeem-panel.php:143
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../taqyeem-panel.php:144
+msgid "Documentation"
+msgstr "مستندات"
+
+#: ../taqyeem-panel.php:377
+msgid "Save Settings"
+msgstr "ذخیره تنظیمات"
+
+#: ../taqyeem-panel.php:393
+msgid "Start"
+msgstr "شروع"
+
+#: ../taqyeem-panel.php:394 ../taqyeem-panel.php:456
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: ../taqyeem-panel.php:397 ../taqyeem-panel.php:536 ../taqyeem-panel.php:539
+msgid "Styling"
+msgstr "استایل"
+
+#: ../taqyeem-panel.php:398 ../taqyeem-panel.php:618 ../taqyeem-panel.php:652
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: ../taqyeem-panel.php:403 ../taqyeem-panel.php:694
+msgid "Advanced Settings"
+msgstr "تنظیمات پیشرفته"
+
+#: ../taqyeem-panel.php:413
+msgid "Welcome to TAQYEEM!"
+msgstr "به Taqyeem خوشامدید!"
+
+#: ../taqyeem-panel.php:415
+msgid ""
+"Thank you for purchasing the TAQYEEM plugin, a WordPress plugin by <a href="
+"\"http://tielabs.com/\" target=\"_blank\">TieLabs</a>."
+msgstr ""
+"از شما بخاطر خرید افزونه TAQYEEM ممنونیم! این افزونه توسط  <a href=\"https://"
+"ptheme.ir/\" target=\"_blank\"> پی تم </a> فارسی سازی شده است."
+
+#: ../taqyeem-panel.php:418
+msgid "Need Help?"
+msgstr "کمک میخواهید؟"
+
+#: ../taqyeem-panel.php:420
+msgid "Plugin Docs"
+msgstr "مستندات افزونه"
+
+#: ../taqyeem-panel.php:421
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: ../taqyeem-panel.php:426
+msgid "Rate Taqyeem"
+msgstr "امتیاز به Taqyeem"
+
+#: ../taqyeem-panel.php:427
+msgid ""
+"If you like Taqyeem, please don’t forget to <a target=\"_blank\" href="
+"\"http://themeforest.net/downloads?ref=tielabs\">rate it</a>"
+msgstr ""
+"اگر Taqyeem را دوست دارید <a target=\"_blank\" href=\"http://themeforest.net/"
+"downloads?ref=tielabs\">به آن امتیاز دهید</a>"
+
+#: ../taqyeem-panel.php:434
+msgid "Taqyeem Add-ons"
+msgstr "افزودنی های Taqyeem"
+
+#: ../taqyeem-panel.php:443
+msgid "GET IT NOW"
+msgstr "الان دریافت کنید"
+
+#: ../taqyeem-panel.php:459
+msgid "Show Review Boxes in the singular pages only ?"
+msgstr "نمایش کادر امتیازدهی فقط در صفحات منحصر به فرد؟"
+
+#: ../taqyeem-panel.php:462
+msgid "Enable in Single page only ?"
+msgstr "فعال فقط برای تک نوشته؟"
+
+#: ../taqyeem-panel.php:466
+msgid ""
+"Enable it if your theme uses ' the_content() ' in homepage and archives "
+"pages and you want to show post review box in the single post page only !"
+msgstr ""
+"آن را فعال کنید، اگر قالب شما از 'the_content ()' در صفحه اصلی و بایگانی "
+"استفاده می کند و شما می خواهید کادر امتیازدهی را فقط در صفحه تک نوشته نمایش "
+"دهید!"
+
+#: ../taqyeem-panel.php:470 ../taqyeem-panel.php:473
+msgid "Who Is Allowed To Rate ?"
+msgstr "چه کسی مجاز به امتیاز دادن می باشد؟"
+
+#: ../taqyeem-panel.php:476
+msgid "No One !"
+msgstr "هیچکس !"
+
+#: ../taqyeem-panel.php:477
+msgid "Registered Users And Guests"
+msgstr "فقط برای اعضا و مهمانان"
+
+#: ../taqyeem-panel.php:478
+msgid "Guests Only"
+msgstr "فقط برای مهمان ها"
+
+#: ../taqyeem-panel.php:479
+msgid "Registered Users Only"
+msgstr "فقط برای اعضا"
+
+#: ../taqyeem-panel.php:483 ../taqyeem-panel.php:486
+msgid "Ratings Image"
+msgstr "آیکن امتیازدهی"
+
+#: ../taqyeem-panel.php:497
+msgid "Structured Data"
+msgstr "داده ساختاری"
+
+#: ../taqyeem-panel.php:501
+msgid "Enable Structured Data"
+msgstr "فعالسازی داده ساختاری"
+
+#: ../taqyeem-panel.php:508
+msgid "Default Structured Data"
+msgstr "داده ساختاری پیش فرض"
+
+#: ../taqyeem-panel.php:512 ../taqyeem-posts.php:110
+msgid "Product"
+msgstr "محصول"
+
+#: ../taqyeem-panel.php:513 ../taqyeem-posts.php:111
+msgid "Book"
+msgstr "کتاب"
+
+#: ../taqyeem-panel.php:514 ../taqyeem-posts.php:112
+msgid "Movie"
+msgstr "فیلم"
+
+#: ../taqyeem-panel.php:515 ../taqyeem-posts.php:113
+msgid "Game"
+msgstr "بازی"
+
+#: ../taqyeem-panel.php:516 ../taqyeem-posts.php:114
+msgid "Event"
+msgstr "رویداد"
+
+#: ../taqyeem-panel.php:517 ../taqyeem-posts.php:115
+msgid "Course"
+msgstr "دروه"
+
+#: ../taqyeem-panel.php:518 ../taqyeem-posts.php:116
+msgid "Organization"
+msgstr "سازمان"
+
+#: ../taqyeem-panel.php:519 ../taqyeem-posts.php:117
+msgid "MusicRecording"
+msgstr "رکورد موسیقی"
+
+#: ../taqyeem-panel.php:520 ../taqyeem-posts.php:118
+msgid "MusicPlaylist"
+msgstr "لیست پخش موسیقی"
+
+#: ../taqyeem-panel.php:521 ../taqyeem-posts.php:119
+msgid "Episode"
+msgstr "اپیزود"
+
+#: ../taqyeem-panel.php:522 ../taqyeem-posts.php:120
+msgid "Restaurant"
+msgstr "رستوران"
+
+#: ../taqyeem-panel.php:542
+msgid "Review Box Outer Border"
+msgstr "حاشیه بیرونی کادر امتیازدهی"
+
+#: ../taqyeem-panel.php:547
+msgid "Review Box Header & Footer Background"
+msgstr "سربرگ کادر امتیازدهی و پس زمینه پاورقی"
+
+#: ../taqyeem-panel.php:552
+msgid "Review items Background"
+msgstr "پس زمینه آیتم های امتیازدهی"
+
+#: ../taqyeem-panel.php:557
+msgid "Final Score and percentage bar Background"
+msgstr "پس زمینه امتیاز نهایی و نوار درصد"
+
+#: ../taqyeem-panel.php:562
+msgid "Links Color"
+msgstr "رنگ لینک ها"
+
+#: ../taqyeem-panel.php:567
+msgid "Links Decoration"
+msgstr "حالت لینک ها"
+
+#: ../taqyeem-panel.php:577
+msgid "Links Color on mouse over"
+msgstr "رنگ لینک وقتی ماوس روی آن میرود"
+
+#: ../taqyeem-panel.php:582
+msgid "Links Decoration on mouse over"
+msgstr "حالت لینک ها با عبور ماوس"
+
+#: ../taqyeem-panel.php:596
+msgid "Custom CSS"
+msgstr "CSS دلخواه"
+
+#: ../taqyeem-panel.php:598
+msgid "Global CSS :"
+msgstr "CSS کلی:"
+
+#: ../taqyeem-panel.php:602
+msgid "Tablets CSS :"
+msgstr "CSS برای تبلت:"
+
+#: ../taqyeem-panel.php:602
+msgid "Width from 768px to 985px"
+msgstr "عرض از 768px تا 985px"
+
+#: ../taqyeem-panel.php:606
+msgid "Wide Phones CSS :"
+msgstr "CSS برای تلفن عریض:"
+
+#: ../taqyeem-panel.php:606
+msgid "Width from 480px to 767px"
+msgstr "عرض از 480px تا 767px"
+
+#: ../taqyeem-panel.php:610
+msgid "Phones CSS :"
+msgstr "CSS برای تلفن:"
+
+#: ../taqyeem-panel.php:610
+msgid "Width from 320px to 479px"
+msgstr "عرض از 320px تا 479px"
+
+#: ../taqyeem-panel.php:621
+msgid "Character sets"
+msgstr "تنظیمات کاراکتر"
+
+#: ../taqyeem-panel.php:622
+msgid ""
+"<strong>Tip:</strong> If you choose only the languages that you need, you'll "
+"help prevent slowness on your webpage."
+msgstr ""
+"<strong>راهنما:</strong>اگر فقط زبانهایی را انتخاب کنید که به آنها نیاز "
+"دارید، به جلوگیری از کند شدن صفحه وب خود کمک می کنید."
+
+#: ../taqyeem-panel.php:625
+msgid "Latin Extended"
+msgstr "لاتین تمدید شد"
+
+#: ../taqyeem-panel.php:630
+msgid "Cyrillic"
+msgstr "سیریلیک"
+
+#: ../taqyeem-panel.php:635
+msgid "Cyrillic Extended"
+msgstr "سیریلیک تمدید شد"
+
+#: ../taqyeem-panel.php:640
+msgid "Greek"
+msgstr "یونانی"
+
+#: ../taqyeem-panel.php:645
+msgid "Greek Extended"
+msgstr "یونانی تمدید شد"
+
+#: ../taqyeem-panel.php:655 ../taqyeem-posts.php:82
+msgid "Review Box Title"
+msgstr "عنوان کادر امتیازدهی"
+
+#: ../taqyeem-panel.php:660
+msgid "Review Items"
+msgstr "آیتم های امتیازدهی"
+
+#: ../taqyeem-panel.php:665 ../taqyeem-posts.php:98
+msgid "Review Summary"
+msgstr "خلاصه امتیاز"
+
+#: ../taqyeem-panel.php:670
+msgid "Total Score"
+msgstr "امتیاز کل"
+
+#: ../taqyeem-panel.php:675
+msgid "Final opinion Text"
+msgstr "متن نقد و بررسی نهایی"
+
+#: ../taqyeem-panel.php:680
+msgid "User Rating"
+msgstr "امتیاز کاربران"
+
+#: ../taqyeem-panel.php:701
+msgid "Export"
+msgstr "برون ریزی"
+
+#: ../taqyeem-panel.php:707
+msgid "Import"
+msgstr "درون ریزی"
+
+#: ../taqyeem-panel.php:723
+msgid "All settings will be reset .. Are you sure ?"
+msgstr "همه تنظیمات بازنشانی خواهند شد .. آیا مطمئن هستید؟"
+
+#: ../taqyeem-panel.php:723
+msgid "Reset Settings"
+msgstr "بازنشانی تنظیمات"
+
+#: ../taqyeem-posts.php:14
+msgid "Review Options"
+msgstr "تنظیمات امتیازدهی"
+
+#: ../taqyeem-posts.php:47
+msgid "Review Box Position"
+msgstr "مکان کادر امتیازدهی"
+
+#: ../taqyeem-posts.php:51
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: ../taqyeem-posts.php:52
+msgid "Top of the post"
+msgstr "بالای مطلب"
+
+#: ../taqyeem-posts.php:53
+msgid "Bottom of the post"
+msgstr "پایین مطلب"
+
+#: ../taqyeem-posts.php:54
+msgid "Custom position"
+msgstr "مکان دلخواه"
+
+#: ../taqyeem-posts.php:60
+#, php-format
+msgid ""
+"Use <strong>[taq_review]</strong> shortcode to place the review box in any "
+"place within post content or use <strong> %s </strong> Widget ."
+msgstr ""
+"برای نمایش کادر امتیازدهی در هر جایی از کدکوتاه <strong>[taq_review]</"
+"strong>  استفاده کنید. یا از ابزارک<strong> %s </strong> استفاده نمایید ."
+
+#: ../taqyeem-posts.php:71
+msgid "Review Style"
+msgstr "استایل امتیازدهی"
+
+#: ../taqyeem-posts.php:75
+msgid "Image"
+msgstr "عکس"
+
+#: ../taqyeem-posts.php:76
+msgid "Percentage"
+msgstr "درصد"
+
+#: ../taqyeem-posts.php:77
+msgid "Points"
+msgstr "نقاط"
+
+#: ../taqyeem-posts.php:89
+msgid "Text appears under the total score"
+msgstr "این متن در زیر امتیاز کل نمایش داده می شود"
+
+#: ../taqyeem-posts.php:105
+msgid "Structured Data Type"
+msgstr "نوع داده ساختاری"
+
+#: ../taqyeem-posts.php:109
+msgid "Default"
+msgstr "پیشفرض"
+
+#: ../taqyeem-posts.php:126
+msgid "Product Description"
+msgstr "توضیحات محصول"
+
+#: ../taqyeem-posts.php:134
+msgid "Product URL"
+msgstr "لینک محصول"
+
+#: ../taqyeem-posts.php:142
+msgid "Brand"
+msgstr "برند"
+
+#: ../taqyeem-posts.php:150
+msgid "SKU"
+msgstr "شناسه"
+
+#: ../taqyeem-posts.php:158
+msgid "MPN Number"
+msgstr "شماره MPN"
+
+#: ../taqyeem-posts.php:166
+msgid "GTIN Number"
+msgstr "شماره GTIN"
+
+#: ../taqyeem-posts.php:174
+msgid "Product Availability"
+msgstr "دسترسی محصول"
+
+#: ../taqyeem-posts.php:179
+msgid "InStock"
+msgstr "در انبار"
+
+#: ../taqyeem-posts.php:180
+msgid "OutOfStock"
+msgstr "تمام شده"
+
+#: ../taqyeem-posts.php:185
+msgid "Product Price"
+msgstr "قیمت محصول"
+
+#: ../taqyeem-posts.php:193
+msgid "Product Price Currency ( Three-letter ISO 4217 format )"
+msgstr "قیمت فعلی محصول (فرمت Three-letter ISO 4217)"
+
+#: ../taqyeem-posts.php:201
+msgid "Product Valid Until ( YYYY-MM-DD )"
+msgstr "اعتبار محصول تا ( YYYY-MM-DD )"
+
+#: ../taqyeem-posts.php:210
+msgid "Location Name"
+msgstr "نام مکان"
+
+#: ../taqyeem-posts.php:218
+msgid "Location Address"
+msgstr "آدرس مکان"
+
+#: ../taqyeem-posts.php:226
+msgid "Event Description"
+msgstr "توضیحات رویداد"
+
+#: ../taqyeem-posts.php:234
+msgid "Start date ( YYYY-MM-DD )"
+msgstr "تاریخ شروع ( YYYY-MM-DD )"
+
+#: ../taqyeem-posts.php:242
+msgid "End date ( YYYY-MM-DD )"
+msgstr "تاریخ اتمام ( YYYY-MM-DD )"
+
+#: ../taqyeem-posts.php:251
+msgid "Author"
+msgstr "نویسنده "
+
+#: ../taqyeem-posts.php:259
+msgid "Author URL"
+msgstr "لینک نویسنده"
+
+#: ../taqyeem-posts.php:267
+msgid "ISBN"
+msgstr "شابک"
+
+#: ../taqyeem-posts.php:276
+msgid "Movie URL"
+msgstr "آدرس فیلم"
+
+#: ../taqyeem-posts.php:284
+msgid "Movie Date"
+msgstr "تاریخ فیلم"
+
+#: ../taqyeem-posts.php:292
+msgid "Director"
+msgstr "کارگردان"
+
+#: ../taqyeem-posts.php:301
+msgid "Description"
+msgstr "توصیحات"
+
+#: ../taqyeem-posts.php:309
+msgid "Provider"
+msgstr "ارائه دهنده"
+
+#: ../taqyeem-posts.php:318
+msgid "Address"
+msgstr "آدرس"
+
+#: ../taqyeem-posts.php:326
+msgid "Price"
+msgstr "قیمت"
+
+#: ../taqyeem-posts.php:334
+msgid "Cuisine"
+msgstr "غذا"
+
+#: ../taqyeem-posts.php:342
+msgid "Telephone"
+msgstr "تلفن"
+
+#: ../taqyeem-posts.php:352
+msgid "Add New Review Criteria"
+msgstr "افزودن معیار امتیازدهی جدید"
+
+#: ../taqyeem-widgets.php:66
+msgid "Review Overview"
+msgstr "خلاصه امتیاز"
+
+#: ../taqyeem-widgets.php:70
+msgid "This Widget appears in single post only ."
+msgstr "این ابزارک فقط در تک نوشته ها نمایش داده می شود ."
+
+#: ../taqyeem-widgets.php:73 ../taqyeem-widgets.php:184
+#: ../taqyeem-widgets.php:324
+msgid "Title : "
+msgstr "عنوان: "
+
+#: ../taqyeem-widgets.php:155 ../taqyeem-widgets.php:206
+#: ../taqyeem-widgets.php:300 ../taqyeem-widgets.php:347
+msgid "Best Reviews"
+msgstr "بهترین امتیازات"
+
+#: ../taqyeem-widgets.php:189 ../taqyeem-widgets.php:329
+msgid "Number of posts to show :"
+msgstr "تعداد نوشته های قابل نمایش:"
+
+#: ../taqyeem-widgets.php:194
+msgid "Categories :"
+msgstr "دسته بندی ها:"
+
+#: ../taqyeem-widgets.php:202 ../taqyeem-widgets.php:343
+msgid "Posts Order :"
+msgstr "مرتب سازی نوشته ها:"
+
+#: ../taqyeem-widgets.php:204 ../taqyeem-widgets.php:345
+msgid "Recent Reviews"
+msgstr "آخرین امتیازات"
+
+#: ../taqyeem-widgets.php:205 ../taqyeem-widgets.php:346
+msgid "Random Reviews"
+msgstr "امتیازات تصادفی"
+
+#: ../taqyeem-widgets.php:211 ../taqyeem-widgets.php:352
+msgid "Display Thumbinals"
+msgstr "نمایش  تصاویر بند انگشتی"
+
+#: ../taqyeem-widgets.php:218 ../taqyeem-widgets.php:359
+msgid "Thumbinals Size :"
+msgstr "اندازه  تصویر بند انگشتی:"
+
+#: ../taqyeem-widgets.php:334
+msgid "Post Types :"
+msgstr "نوع مطلب:"
+
+#: ../taqyeem.php:598
+msgid "No Ratings Yet !"
+msgstr "هنوز امتیازی ثبت نشده!"
+
+#: ../taqyeem.php:602
+msgid "Be the first one !"
+msgstr "اولین نفری باشید که امتیاز می دهد!"
+
+#: ../taqyeem.php:640 ../taqyeem.php:660 ../taqyeem.php:997
+msgid "Your Rating:"
+msgstr "امتیاز شما:"
+
+#: ../taqyeem.php:642 ../taqyeem.php:662 ../taqyeem.php:701
+msgid "votes"
+msgstr "رای"
+
+#: ../taqyeem.php:679 ../taqyeem.php:699
+msgid "User Rating:"
+msgstr "امتیاز کاربران:"
+
+#: ../taqyeem.php:814 ../taqyeem.php:879
+msgid "No Posts"
+msgstr "بدون مطلب"
