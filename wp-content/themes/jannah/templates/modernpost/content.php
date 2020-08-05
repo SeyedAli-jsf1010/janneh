@@ -47,9 +47,47 @@ defined('ABSPATH') || exit; // Exit if accessed directly
                  * @hooked tie_before_post_content_ad - 10
                  * @hooked tie_story_highlights - 20
                  */
-            //    do_action('TieLabs/before_post_content');
+                //    do_action('TieLabs/before_post_content');
                 ?>
-               
+                <?php
+                $podcast_array = get_field('podcast', get_the_id());
+                $post_videos_array = get_field('post_videos', get_the_id()); ?>
+
+                <?php if ($post_videos_array and has_post_thumbnail()) { ?>
+                    <div class="container123"
+                         style=" display:flex ; width: 100% ; align-content: center ;padding-bottom: 5%;">
+                        <div class="content123"
+                             style="width: 100% ; background: #dbdddf; border-radius: 45px 5px 44px 5px; ">
+                            <div class="comparecontainer" style="width: 50% ; float: left; height: auto; padding: 2%;">
+                                <h2 style="text-align: center;"> ویدئوی مقاله</h2>
+
+
+                                <div style="padding: 0 3% 0 3%">
+                                    <video controls style="width: 100%;height: auto;">
+                                        <source src="<?php if ($post_videos_array) echo $post_videos_array['url'] ?>"
+                                                type="video/mp4">
+                                    </video>
+                                </div>
+                            </div>
+                            <div class="comparecontainer" style="width: 50% ; float: left ;height: auto; padding: 2%;">
+
+                                <h2 style="text-align: center;"> صوت مقاله</h2>
+                                <div style="padding: 0 3% 0 0px;">
+                                    <?php if (has_post_thumbnail()) {
+                                        $featured_image = get_the_post_thumbnail();
+                                        echo $featured_image;
+                                    } ?>
+                                    <audio controls style="width: 100% ; margin-top: 10%;">
+                                        <source src="<?php if ($podcast_array) echo $podcast_array['url'] ?>"
+                                                type="audio/mpeg">
+                                        Your browser does not support the audio element.
+                                    </audio>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <?php } ?>
+
                 <?php the_content(); ?>
 
                 <?php

@@ -109,6 +109,7 @@ if( ! class_exists( 'TIELABS_FOXPUSH' )){
 					esc_html__( 'Send a Web Notification', TIELABS_TEXTDOMAIN ),
 					array( $this, 'send_meta_box_content' ),
 					'post',
+					'modernpost',
 					'side'
 				);
 			}

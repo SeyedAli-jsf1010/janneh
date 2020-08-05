@@ -353,7 +353,7 @@ if( ! class_exists( 'TIELABS_ADVERTISMENT' )){
 				return $content;
 			}
 
-			if ( is_singular('post') && ! is_admin() ) {
+			if ( is_singular('post' or 'modernpost') && ! is_admin() ) {
 
 				for ( $i=1; $i <= 2 ; $i++) {
 

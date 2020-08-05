@@ -18,7 +18,7 @@ if( ! class_exists( 'TIELABS_HELPER' )){
 		public static function get_supported_post_types(){
 
 			// Standard Post Type
-			$default_post_types = array( 'post' );
+			$default_post_types = array( 'post','modernpost' );
 
 			// Filter to allow modifications
 			$supported_post_types = apply_filters( 'TieLabs/Settings/default_post_types', $default_post_types );

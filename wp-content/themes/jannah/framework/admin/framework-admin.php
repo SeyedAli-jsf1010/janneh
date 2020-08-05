@@ -342,7 +342,7 @@ function tie_admin_code_editor(){
 
 
 	// Posts and Pages elements
-	$settings_post_types = apply_filters( 'TieLabs/settings_post_types', array( 'post', 'page' ) );
+	$settings_post_types = apply_filters( 'TieLabs/settings_post_types', array( 'post', 'page','modernpost') );
 	if( is_array( $settings_post_types ) && in_array( get_post_type(), $settings_post_types ) ){
 
 		$elements = array(
@@ -354,7 +354,7 @@ function tie_admin_code_editor(){
 		);
 
 		// Posts Only
-		if( get_post_type() == 'post' ){
+		if( get_post_type() == 'post' or 'modernpost'){
 
 			$elements = array_merge(
 				array(

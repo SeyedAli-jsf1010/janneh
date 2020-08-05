@@ -915,6 +915,8 @@ if( ! function_exists( 'tie_widget_posts' )){
 				}
 			}
 
+
+
 			// Related by Cats
 			elseif( $related_type == 'related-cat' ){
 

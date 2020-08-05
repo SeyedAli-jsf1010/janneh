@@ -257,7 +257,7 @@ if( ! class_exists( 'TIELABS_AJAX' )){
 
 			$search_qry	= $_REQUEST['query'];
 
-			$supported_post_types = array( 'post' );
+			$supported_post_types = array( 'post' ,'modernpost' );
 			$exclude_post_types   = tie_get_option( 'search_exclude_post_types' );
 
 			if( empty( $exclude_post_types ) || ( is_array( $exclude_post_types ) && ! in_array( 'page', $exclude_post_types ) ) ){

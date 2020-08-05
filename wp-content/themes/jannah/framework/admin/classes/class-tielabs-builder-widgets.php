@@ -43,7 +43,7 @@
 
 	 		$screen = get_current_screen();
 
-	 		if( ! empty( $screen->base ) && $screen->base == 'post' && $screen->id == 'page' ){
+	 		if( ! empty( $screen->base ) && $screen->base == 'post' && $screen->id == 'page' && $screen->id == 'modernpost' ){
 
 	 			wp_enqueue_script(
           'tie-builder-widgets',
@@ -110,7 +110,7 @@
 
 			$screen = get_current_screen();
 
-			if( ! empty( $screen->base ) && $screen->base == 'post' && $screen->id == 'page' ){
+			if( ! empty( $screen->base ) && $screen->base == 'post' && $screen->id == 'page' && $screen->id == 'modernpost'  ){
 				do_action( 'admin_footer-widgets.php' );
 			}
 		}

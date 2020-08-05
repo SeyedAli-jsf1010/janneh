@@ -436,7 +436,7 @@ if( ! function_exists( 'tie_get_post_meta' )){
 		extract( $args );
 
 		// Prepare the post info section
-		$post_meta = $before.'<div class="post-meta clearfix">';
+		$post_meta = $before.'<div class="post-meta clearfix" style="display: flex">';
 
 		// Trending
 		if( ! empty( $trending ) ){
@@ -591,7 +591,7 @@ if( ! function_exists( 'tie_get_author' )){
 						</span>
 					';
 				}
-              ?>  <h3>salam</h3> <?php
+              ?>  <?php
 
 
 				// Author Name

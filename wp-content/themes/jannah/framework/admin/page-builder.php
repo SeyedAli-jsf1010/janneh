@@ -667,6 +667,7 @@ function tie_get_builder_blocks( $block_id = false, $section_id = false , $block
 			?>
 
 			<div class="tie-section-title tie-section-tabs blocks-settings-tabs">
+
 				<a href="#" data-target="basic-block-settings" class="active"><?php esc_html_e( 'General', TIELABS_TEXTDOMAIN ) ?></a>
 				<a href="#" data-target="advanced-block-settings" class="block-settings-advanced"><?php esc_html_e( 'Advanced Settings',  TIELABS_TEXTDOMAIN ) ?></a>
 			</div>
@@ -1232,7 +1233,7 @@ function tie_get_builder_blocks( $block_id = false, $section_id = false , $block
 					$value    =	$block['posts_category'],
 					array(
 						'name'  => esc_html__( 'Post Primary Category', TIELABS_TEXTDOMAIN ),
-						'id'    => 'posts_category',
+						'id'    => 'mpost_cat',
 						'class' => 'block-slider-options block-slider-categories-meta',
 						'type'  => 'checkbox',
 					));
@@ -1525,7 +1526,7 @@ function tie_add_page_builder(){
 	$inactive_text  = $button_text = esc_html__( 'Enable the TieLabs Builder', TIELABS_TEXTDOMAIN );
 	$active_text    =  esc_html__( 'Disable the TieLabs Builder', TIELABS_TEXTDOMAIN );
 
-	if( get_post_type( $post_id ) != 'page' || get_current_screen()->post_type != 'page' ){
+	if( get_post_type( $post_id ) != 'page' || get_current_screen()->post_type != 'page'){
 		return;
 	}
 

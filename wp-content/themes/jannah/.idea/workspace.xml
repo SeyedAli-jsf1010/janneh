@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9805b81a-597c-4745-bdc4-d21a1799ee76" name="Default Changelist" comment="" />
+    <list default="true" id="9805b81a-597c-4745-bdc4-d21a1799ee76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/modernpost/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mu-plugins/jannah-post-types.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../mu-plugins/jannah-post-types.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/admin/classes/class-tielabs-admin-helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/admin/classes/class-tielabs-admin-helper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/admin/classes/class-tielabs-builder-widgets.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/admin/classes/class-tielabs-builder-widgets.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/admin/classes/class-tielabs-settings-post.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/admin/classes/class-tielabs-settings-post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/admin/framework-admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/admin/framework-admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/admin/page-builder.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/admin/page-builder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/classes/class-tielabs-advertisment.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/classes/class-tielabs-advertisment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/classes/class-tielabs-ajax.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/classes/class-tielabs-ajax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/classes/class-tielabs-foxpush.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/classes/class-tielabs-foxpush.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/classes/class-tielabs-helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/classes/class-tielabs-helper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/functions/general-functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/functions/general-functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/functions/post-actions.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/functions/post-actions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/functions/post-functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/framework/functions/post-functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-modernpost.php" beforeDir="false" afterPath="$PROJECT_DIR$/single-modernpost.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/single-post/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/single-post/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/single-post/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/single-post/head.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +54,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mu-plugins/jannah-post-types.php" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -62,7 +84,13 @@
       <workItem from="1595873522508" duration="1399000" />
       <workItem from="1595921446333" duration="15197000" />
       <workItem from="1596028101115" duration="32875000" />
-      <workItem from="1596141603838" duration="704000" />
+      <workItem from="1596141603838" duration="715000" />
+      <workItem from="1596191351012" duration="22316000" />
+      <workItem from="1596260521531" duration="23729000" />
+      <workItem from="1596350326945" duration="18580000" />
+      <workItem from="1596481079875" duration="18876000" />
+      <workItem from="1596610579774" duration="270000" />
+      <workItem from="1596612778635" duration="5745000" />
     </task>
     <servers />
   </component>
@@ -70,29 +98,44 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="554" y="155" key="FileChooserDialogImpl" timestamp="1596141639437">
+    <state x="554" y="155" key="FileChooserDialogImpl" timestamp="1596613859202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="554" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596141639437" />
-    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1595859493468">
+    <state x="554" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596613859202" />
+    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1596191504910">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1595859493468" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1596141604375">
+    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1596191504910" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1596545806115">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596141604375" />
-    <state x="468" y="10" width="611" height="804" key="find.popup" timestamp="1596139741144">
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596545806115" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1596612846654">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="468" y="10" width="611" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1596139741144" />
-    <state x="426" y="187" width="672" height="677" key="run.anything.popup" timestamp="1596119665590">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596612846654" />
+    <state x="444" y="10" width="614" height="804" key="find.popup" timestamp="1596615111244">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="426" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596119665590" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595925645433">
+    <state x="444" y="10" width="614" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1596615111244" />
+    <state x="426" y="187" width="672" height="677" key="run.anything.popup" timestamp="1596557388016">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595925645433" />
+    <state x="426" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596557388016" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596556370532">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596556370532" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/framework/admin/page-builder.php</url>
+          <line>770</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

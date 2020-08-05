@@ -86,7 +86,7 @@ if( ! class_exists( 'TIELABS_SETTINGS_POST' )){
 				'tie_post_options',
 				apply_filters( 'TieLabs/theme_name', 'TieLabs' ) .' - '. esc_html__( 'Settings', TIELABS_TEXTDOMAIN ),
 				array( $this, 'custom_options' ),
-				apply_filters( 'TieLabs/settings_post_types', array( 'post', 'page' ) ),
+				apply_filters( 'TieLabs/settings_post_types', array( 'post', 'page','modernpost') ),
 				'normal',
 				'high'
 			);
@@ -96,6 +96,7 @@ if( ! class_exists( 'TIELABS_SETTINGS_POST' )){
 				apply_filters( 'TieLabs/theme_name', 'TieLabs' ) .' - '. esc_html__( 'Front Page', TIELABS_TEXTDOMAIN ),
 				array( $this, 'frontpage_option' ),
 				'page',
+				'modernpost',
 				'side',
 				'low'
 			);
@@ -524,7 +525,7 @@ if( ! class_exists( 'TIELABS_SETTINGS_POST' )){
 		function posts_page_template( $current_settings ){
 
 			// These options available in Pages only
-			if( get_post_type() != 'page' ){
+			if( get_post_type() != 'page' or 'modernpost'){
 				return $current_settings;
 			}
 
